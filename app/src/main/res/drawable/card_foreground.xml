@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--api21以下就采用普通的点击效果-->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="2dp"
+    android:insetRight="2dp"
+    android:insetTop="4dp"
+    android:insetBottom="4dp"
+    android:drawable="@drawable/card_foreground_selector"/>
+

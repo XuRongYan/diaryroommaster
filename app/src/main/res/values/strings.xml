@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">diary-room-master</string>
+    <string name="text_one_more_click">再按一次退出程序</string>
+    <string name="string_delete_all">删除所有</string>
+    <string name="menu_search">menu_search</string>
+    <string name="string_test_diary_title">标题</string>
+    <string name="_2018_1_4_20_39">2018-1-4 20:39</string>
+    <string name="string_test_content">内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容</string>
+    <string name="string_empty_view">还没有任何数据呦( ･´ω`･ )</string>
+    <string name="string_add_diary">添加日记</string>
+    <string name="string_diary_title_hint">日记标题在这里</string>
+    <string name="string_input_content_hint">请在这输入你今天的心情吧</string>
+    <string name="error_title_not_null">标题不能为空</string>
+    <string name="string_edit">编辑</string>
+    <string name="string_search">搜索</string>
+</resources>
